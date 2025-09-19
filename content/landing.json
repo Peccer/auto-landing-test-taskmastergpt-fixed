@@ -1,0 +1,75 @@
+{
+  "eyebrow": "Discover the power of",
+  "title": "Home",
+  "subtitle": "Paco\u2019s Chatbot Chat with my own chatbot below! Want to know how I built it? Visit project details Assistant: Feel free to ask me any question and get an imme...",
+  "primaryCta": {
+    "label": "Get Started",
+    "href": "https://taskmastergpt.nl/"
+  },
+  "secondaryCta": {
+    "label": "Learn More",
+    "href": "https://taskmastergpt.nl/"
+  },
+  "badges": [
+    "API Ready"
+  ],
+  "heroImage": "https://taskmastergpt.nl/wp-content/uploads/2025/02/android-chrome-512x512-1.png",
+  "logos": [],
+  "features": [
+    {
+      "title": "Generative Ai ProjectRAG-Powered Chatbot",
+      "description": "Generative Ai ProjectRAG-Powered Chatbot for Personal Q&A",
+      "icon": "sparkles"
+    },
+    {
+      "title": "Generative Ai ProjectMulti-Purpose Data",
+      "description": "Generative Ai ProjectMulti-Purpose Data Finder & Scraper",
+      "icon": "sparkles"
+    },
+    {
+      "title": "Paco\u2019s Chatbot",
+      "description": "Chat with my own chatbot below!Want to know how I built it?Visit project details",
+      "icon": "star"
+    },
+    {
+      "title": "Get in touch",
+      "description": "Dutch native, born and raised in Amsterdam, Family man, Fighting boredom anno 2002.",
+      "icon": "star"
+    },
+    {
+      "title": "Gen Ai Projects",
+      "description": "Learn more about gen ai projects and how it can benefit you.",
+      "icon": "sparkles"
+    },
+    {
+      "title": "RAG-Powered Chatbot for Personal Q&A",
+      "description": "Chat with my own chatbot below!Want to know how I built it?Visit project details",
+      "icon": "star"
+    }
+  ],
+  "cta": {
+    "title": "Ready to get started?",
+    "subtitle": "Join thousands of satisfied customers today.",
+    "button": {
+      "label": "Get Started",
+      "href": "https://taskmastergpt.nl/"
+    }
+  },
+  "theme": "dark-glossy",
+  "metadata": {
+    "title": "Home - Landing Page",
+    "description": "Paco\u2019s Chatbot Chat with my own chatbot below! Want to know how I built it? Visit project details Assistant: Feel free to ask me any question and get an imme...",
+    "keywords": [
+      "portfolio",
+      "paco",
+      "chatbot",
+      "about",
+      "boer",
+      "touch",
+      "projects",
+      "personal"
+    ],
+    "ogImage": "https://taskmastergpt.nl/wp-content/uploads/2025/02/android-chrome-512x512-1.png",
+    "twitterCard": "summary_large_image"
+  }
+}
